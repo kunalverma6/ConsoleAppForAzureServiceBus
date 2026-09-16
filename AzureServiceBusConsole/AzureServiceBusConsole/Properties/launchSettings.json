@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AzureServiceBusConsole": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

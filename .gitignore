@@ -1,0 +1,39 @@
+# .NET build files
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Application configuration containing secrets
+**/appsettings.json
+**/appsettings.*.json
+
+# Keep example configuration
+!**/appsettings.example.json
+
+# Logs
+*.log
+logs/
+
+# User secrets
+secrets.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# JetBrains
+.idea/
+
+# Azure local configuration
+local.settings.json
+.azure/
